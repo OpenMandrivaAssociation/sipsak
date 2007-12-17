@@ -8,7 +8,6 @@ URL:		http://sipsak.org/
 Source0:	http://download.berlios.de/sipsak/%{name}-%{version}-1.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	ruli-devel
-BuildRoot:      %{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 sipsak is a small command line tool for developers and

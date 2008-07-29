@@ -1,7 +1,7 @@
 Summary:	SIP swiss army knife
 Name:		sipsak
 Version:	0.9.6
-Release:	%mkrel 1
+Release:	%mkrel 3
 License:	GPL
 Group:		Networking/Other
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot

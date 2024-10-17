@@ -5,7 +5,7 @@ Release:	8
 License:	GPL
 Group:		Networking/Other
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL:		http://sipsak.org/
+URL:		https://sipsak.org/
 Source0:	http://download.berlios.de/sipsak/%{name}-%{version}-1.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	ruli-devel
